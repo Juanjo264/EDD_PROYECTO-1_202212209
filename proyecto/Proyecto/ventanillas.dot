@@ -1,0 +1,14 @@
+ digraph Ventanillas {
+     rankdir=TB;
+     label="Ventanillas";
+     node [shape=box, style=filled, color=blue, fillcolor=pink];
+     "Ventanilla           1 " [label="Numero:            1 "];
+     "Ventanilla           1 " -> "Ventanilla           2 ";
+     "Ventanilla           2 " [label="Numero:            2 "];
+     "Ventanilla           2 " -> "Ventanilla           3 ";
+     "Ventanilla           3 " [label="Numero:            3 "];
+     "Ventanilla           3 " -> "Ventanilla           4 ";
+     "Ventanilla           4 " [label="Numero:            4 "];
+     "Ventanilla           4 " -> "Ventanilla           5 ";
+     "Ventanilla           5 " [label="Numero:            5 "];
+ }

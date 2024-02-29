@@ -1,0 +1,10 @@
+ digraph Cola {
+     rankdir=LR;
+     label="Cola de Recepcion";
+     node [shape=box, style=filled, color=blue, fillcolor=pink];
+     "Cliente           1 " [label="ID:            1 , Nombre: Andres Lopez v2"];
+     "Cliente           1 " -> "Cliente           2 ";
+     "Cliente           2 " [label="ID:            2 , Nombre: Juan Perez"];
+     "Cliente           2 " -> "Cliente           3 ";
+     "Cliente           3 " [label="ID:            3 , Nombre: Luis Higueros"];
+ }
