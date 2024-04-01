@@ -1,0 +1,27 @@
+[
+    {
+      "dpi": "1",
+      "nombre_usuario": "usuario 1",
+      "password": "a"
+    },
+    {
+        "dpi": "2",
+        "nombre_usuario": "usuario 2",
+        "password": "s"
+    },
+    {
+        "dpi": "3",
+        "nombre_usuario": "usuario 3",
+        "password": "d"
+    },
+    {
+        "dpi": "4",
+        "nombre_usuario": "usuario 4",
+        "password": "f"
+    },
+    {
+        "dpi": "5",
+        "nombre_usuario": "usuario 5",
+        "password": "g"
+    }
+]

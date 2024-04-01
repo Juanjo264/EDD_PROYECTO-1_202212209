@@ -1,0 +1,102 @@
+[
+    {
+        "id_capa": 20,
+        "pixeles": [
+            {
+                "fila": 1,
+                "columna": 2,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 8,
+        "pixeles": [
+            {
+                "fila": 2,
+                "columna": 0,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 0,
+        "pixeles": [
+            {
+                "fila": 3,
+                "columna": 0,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 3,
+        "pixeles": [
+            {
+                "fila": 4,
+                "columna": 0,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 7,
+        "pixeles": [
+            {
+                "fila": 5,
+                "columna": 0,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 1,
+        "pixeles": [
+            {
+                "fila": 6,
+                "columna": 0,
+                "color": "#424242"
+            }
+        ]
+    },{
+        "id_capa": 15,
+        "pixeles": [
+            {
+                "fila": 7,
+                "columna": 0,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 9,
+        "pixeles": [
+            {
+                "fila": 8,
+                "columna": 3,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 100,
+        "pixeles": [
+            {
+                "fila": 40,
+                "columna": 60,
+                "color": "#424242"
+            }
+        ]
+    },
+    {
+        "id_capa": 200,
+        "pixeles": [
+            {
+                "fila": 240,
+                "columna": 260,
+                "color": "#424242"
+            }
+        ]
+    }
+]
+
