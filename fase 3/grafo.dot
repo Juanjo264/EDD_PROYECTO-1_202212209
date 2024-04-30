@@ -1,0 +1,17 @@
+ digraph g {
+ "Nodo1"[label="1"]                                                                                                                                    
+ "Nodo1"[label="1"]                                                                                                                                    
+ "Nodo2"[label="2"]                                                                                                                                    
+ "Nodo2"             ->"Nodo1"              [label="Peso: 10, Impresoras: 1", dir = both]
+ "Nodo2"[label="2"]                                                                                                                                    
+ "Nodo2"[label="2"]                                                                                                                                    
+ "Nodo5"[label="5"]                                                                                                                                    
+ "Nodo5"             ->"Nodo1"              [label="Peso: 10, Impresoras: 6", dir = both]
+ "Nodo5"[label="5"]                                                                                                                                    
+ "Nodo10"[label="10"]                                                                                                                                  
+ "Nodo10"            ->"Nodo5"              [label="Peso: 4, Impresoras: 3", dir = both]
+ "Nodo10"            ->"Nodo2"              [label="Peso: 5, Impresoras: 8", dir = both]
+ "Nodo10"[label="10"]                                                                                                                                  
+ "Nodo21"[label="21"]                                                                                                                                  
+ "Nodo21"            ->"Nodo2"              [label="Peso: 20, Impresoras: 3", dir = both]
+ }

@@ -1,0 +1,14 @@
+[
+  {
+  "id": 1,
+  "departamento": "Guatemala",
+  "direccion": "8 calle 3-45 zona 1",
+  "password": "S1_20$23"
+  },
+  {
+  "id": 2,
+  "departamento": "Huehuetenango",
+  "direccion": "3 avenida 5-45 zona 2",
+  "password": "TKM2_20$24"
+  }
+]

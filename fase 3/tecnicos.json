@@ -1,0 +1,34 @@
+[
+  {
+    "dpi": "1827364536253",
+    "nombre": "Juan pablo",
+    "apellido": "Gonzales Perez",
+    "genero": "Masculino",
+    "direccion": "8 calle 3-45 zona 1",
+    "telefono": 12345678
+  },
+  {
+    "dpi": "3736498372316",
+    "nombre": "Bryan Josue",
+    "apellido": "Gonzales Perez",
+    "genero": "Masculino",
+    "direccion": "8 calle 3-45 zona 1",
+    "telefono": 65748374
+  },
+  {
+    "dpi": "8985083746234",
+    "nombre": "Sofia Maria",
+    "apellido": "Gonzales Perez",
+    "genero": "Masculino",
+    "direccion": "8 calle 3-45 zona 1",
+    "telefono": 19283744
+  }, 
+  {
+    "dpi": "2837472639485",
+    "nombre": "Jacqueline",
+    "apellido": "Gonzales Perez",
+    "genero": "F",
+    "direccion": "8 calle 3-45 zona 1",
+    "telefono":  12345987
+  }
+]
